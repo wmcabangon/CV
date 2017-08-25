@@ -1,50 +1,34 @@
-## Your Name
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
-## Skills
-
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+## Will Cabangon
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### The Wharton School - University of Pennsylvania (September 2011 - May 2015)
+- Bachelor of Science in Economics (Cum Laude)
+- Concentrations in Finance, Statistics, and Marketing
+- Cumulative GPA: 3.56 / 4.0
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+## Work Experience
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Deutsche Bank** (August 2015 - August 2017; New York and London)    
+Foreign Exchange Derivatives: Sales & Trading Analyst
+  • Used statistical analysis (via Excel, Bloomberg) to provide expert advice on investing in foreign exchange derivatives 
+  •	Created models for derivatives and automated trade booking systems using Excel that were used by the whole team
+  •	Built relationships with institutional investors, and managed the entire trade process on their behalf, from onboarding, to trade         execution and matching/clearing
+  •	Strategically deployed internal resources (research, market data, etc) to serve clients cost-effectively
+  •	Provided clients with market insight, trade ideas, and product pricing in real-time throughout the trading day
 
-#### Your University / College (start_date to end_date)
+**Pacific Investment Management Company (PIMCO)** (June 2014 - August 2014; Newport Beach, California)   
+Product Management Intern
+  • Created a fully automated monitor that tracks flows and AUM of 1000+ global fixed income funds, which was eventually adapted for every     product team at the firm
+  •	Created a fully automated monitor that tracks returns and volatilities of PIMCO funds, competitor funds, and benchmarks
+  •	Created the Global Fund’s investment outlook marketing materials to be used firm-wide for client meetings
+  •	Developed a report highlighting the effects of a country’s re-categorization from EM to DM on PIMCO’s Global Advantage Index and           presented it to the Index Committee
+  
+## Leadership Experience
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Read to Me! Project** (May 2010 - August 2013; Manila, Philippines)
+Founder
+  •	Established 6 children’s libraries in impoverished rural areas, consisting of about 1000 books collected door-to-door
+  •	Coordinated with professionals from the Department of Education to develop a mother-child system of teaching that has empirically been     proven to foster literacy
+  •	Created partnerships with soup kitchens to serve as hubs for the book exchange, and as an incentive to read
+  •	Results: Within six months, social workers in all six communities reported improved reading ability in the children
